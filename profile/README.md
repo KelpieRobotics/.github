@@ -1,4 +1,3 @@
-# KelpieRobotics
 ## Table of contents
 ### Season 4 (2025)
 - [Selk-Topisde](https://github.com/KelpieRobotics/Selk-Topside) - Selk-I's Topside computer's scripts and config files
